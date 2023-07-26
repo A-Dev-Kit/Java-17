@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'com.example.java17'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+test {
+}
